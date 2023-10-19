@@ -3,8 +3,8 @@
   padding: 0;
   box-sizing: border-box;
   list-style: none;
-  font-family: Georgia, 'Times New Roman', Times, serif;
   scroll-behavior: smooth;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 body {
@@ -188,9 +188,8 @@ footer img {
 @media only screen and (max-width: 600px) {
 
   h1 {
-  margin: 10px;
-}
-  
+    margin: 30px;
+  }
   .card {
     height: 900px;
   }
